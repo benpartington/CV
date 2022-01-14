@@ -1,4 +1,6 @@
-## Your Name
+## Ben Partington
+
+I am an aspiring Junior Developer, with a keen interest in design. I have a background in art, design and photography. I've worked tirelessly to learn how to code from nothing within the past 6 months and gain a place on a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create new worlds, to use my creativity and ingenuity to bring a fresh approach to problem solving and work in an industry that constantly evolves and innovates.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,8 +13,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Siege Studios** (July 2020 to July 2021)  
+_Freelance Artist_
+
+- Completing miniature model painting commissions for Siege Studios’ clients. 
+- Time management and organisational skills were paramount in this role, as well as a passion for perfection!
+- Results achieved: 
+- A portfolio of outstanding work
+- 100% satisfaction upon review!
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
