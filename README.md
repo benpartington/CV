@@ -13,7 +13,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Siege Studios** (July 2020 to July 2021)  
+**Siege Studios** (August 2020 - October 2021)  
 _Freelance Artist_
 
 - Completing miniature model painting commissions for Siege Studios’ clients. 
@@ -24,12 +24,19 @@ _Freelance Artist_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Culture Trip** (Oct 2018 - June 2020)  
+_Junior Picture Researcher_
 
-- Any experience relevent to software development
+-Researching and curating imagery within articles 
+-Working with sales and marketing teams to produce weekly external newsletters 
+-Researching and licensing of photo-stories 
+-Working across teams to produce editorial content in both print and digital
+
 
 ## Skills
+
+Strong Teamwork Skills - At Culture Trip I worked as part of the visual media team to produce several editions of the Culture Trip magazine. My contribution involved contacting featured businesses to secure press images and making sure my work was in line with the strict team deadlines.
+
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
