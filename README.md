@@ -2,8 +2,6 @@
 
 I am an aspiring Junior Developer, with a keen interest in design. I have a background in art, design and photography. I've worked tirelessly to learn how to code from nothing within the past 6 months and gain a place on a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create new worlds, to use my creativity and ingenuity to bring a fresh approach to problem solving and work in an industry that constantly evolves and innovates.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -22,7 +20,6 @@ _Freelance Artist_
 - A portfolio of outstanding work
 - 100% satisfaction upon review!
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 
 **Culture Trip** (Oct 2018 - June 2020)  
 _Junior Picture Researcher_
@@ -35,37 +32,11 @@ _Junior Picture Researcher_
 
 ## Skills
 
-Teamwork Skills - At Culture Trip I worked as part of the visual media team to produce several editions of the Culture Trip magazine. My contribution involved contacting featured businesses to secure press images and making sure my work was in line with the strict team deadlines.
+Teamwork Skills - At Culture Trip I worked as part of the visual media team to produce several editions of the Culture Trip magazine. My contribution involved contacting featured businesses to secure press images, curating those images and making sure my work was in line with the strict team deadlines. I worked with my team in meetings and 1-2-1 to ensure we were all working towards a common goal and on schedule. As a result, we delivered the magazine on time and created a high quality piece of work we were all very proud of.
 
-Organisational Skills - At Ikon Science I successfully helped to organise software training courses for 2 years. My contributions involved scheduling, organising attendee feedback and catering, as well as organising training materials for in-house and remote courses.
+Organisational Skills - At Ikon Science I successfully helped to organise software training courses for 2 years. My contributions involved scheduling, organising catering and attendee feedback, as well as organising training materials for in-house and remote courses. I made sure that all attendees received the necessary information and materials before, during and after the course. As a result, in addition to receiving excellent feedback from my line manager, the training area of the business continued to be highly successful and ran hundreds of fully booked courses throughout my time at the company.
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Attention to detail - Whilst working as an artist for Siege Studios I completed mutiple commissions to an extremely high standard, and always went above and beyond to put extra effort and (literal) detail into my painting commissions. This role demanded an incredible attention to detail and the ability to follow a client specification closely, whilst also being able to improvise, creatively interpret and expand on the instruction therein. I contributed to the continued rapid expansion and success of the business, and received excellent feedback on all my projects. 
 
 ## Education
 
@@ -92,4 +63,4 @@ Philosophy & Ethics
 
 ## Hobbies
 
-I paint and play the guitar!
+I paint and play wargames with miniatures, and I play the guitar!
