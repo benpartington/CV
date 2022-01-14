@@ -27,13 +27,10 @@ _Freelance Artist_
 **Culture Trip** (Oct 2018 - June 2020)  
 _Junior Picture Researcher_
 
--Researching and curating imagery within articles
-
--Working with sales and marketing teams to produce weekly external newsletters
-
--Researching and licensing of photo-stories 
-
--Working across teams to produce editorial content in both print and digital
+- Researching and curating imagery within articles 
+- Working with sales and marketing teams to produce weekly external newsletters
+- Researching and licensing of photo-stories 
+- Working across teams to produce editorial content in both print and digital
 
 
 ## Skills
