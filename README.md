@@ -29,6 +29,11 @@ _Junior Picture Researcher_
 - Researching and licensing of photo-stories 
 - Working across teams to produce editorial content in both print and digital
 
+**Ikon Science** (August 2013 – November 2015)  
+_Training and Technical Sales Coordinator_
+
+- Organisation of training courses, calendar management and logistics
+
 
 ## Skills
 
