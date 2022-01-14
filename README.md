@@ -35,8 +35,9 @@ _Junior Picture Researcher_
 
 ## Skills
 
-Strong Teamwork Skills - At Culture Trip I worked as part of the visual media team to produce several editions of the Culture Trip magazine. My contribution involved contacting featured businesses to secure press images and making sure my work was in line with the strict team deadlines.
+Teamwork Skills - At Culture Trip I worked as part of the visual media team to produce several editions of the Culture Trip magazine. My contribution involved contacting featured businesses to secure press images and making sure my work was in line with the strict team deadlines.
 
+Organisational Skills - At Ikon Science I successfully helped to organise software training courses for 2 years. My contributions involved scheduling, organising attendee feedback and catering, as well as organising training materials for in-house and remote courses.
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -68,7 +69,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (24/01/22 to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -77,16 +78,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Portsmouth (Sept 2008 - June 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Photography
+- 1st Class Honours
+- Worked part time as a Wedding and Fashion Photography
 
-#### Any other qualifications
+#### A Levels
 
-That in some arguable way make you a better software developer or well-rounded person
+Business Studies
+English Literature
+Philosophy & Ethics
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I paint and play the guitar!
