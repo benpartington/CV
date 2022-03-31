@@ -7,8 +7,7 @@ I am an aspiring Junior Developer, with a keen interest in design. I have a back
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ----------------------------------    | ----------------- |
 | **Final project**            | A webapp to do x.                     | React, Jest, etc. |
-| **Bank Tech Test**           | An application to allow for deposits,   Ruby 
-                                 withdrawals and statement printing    |                   |
+| **Bank Tech Test**           | An application to allow for deposits, withdrawals and statement printing    | Ruby              |
 
 ## Work Experience
 
