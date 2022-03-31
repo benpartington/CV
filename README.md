@@ -1,13 +1,14 @@
 ## Ben Partington
 
-I am an aspiring Junior Developer, with a keen interest in design. I have a background in art, design and photography. I've worked tirelessly to learn how to code from nothing within the past 6 months and gain a place on a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create new worlds, to use my creativity and ingenuity to bring a fresh approach to problem solving and work in an industry that constantly evolves and innovates.
+I am an aspiring Junior Developer, with a keen interest in design. I have a background in art, design and photography. I've worked tirelessly to learn how to code within the past 6 months and gain a place on a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create new worlds, to use my creativity and ingenuity to bring a fresh approach to problem solving and work in an industry that constantly evolves and innovates.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                           | Tech/tools        |
+| ---------------------------- | ----------------------------------    | ----------------- |
+| **Final project**            | A webapp to do x.                     | React, Jest, etc. |
+| **Bank Tech Test**           | An application to allow for deposits,   Ruby 
+                                 withdrawals and statement printing    |                   |
 
 ## Work Experience
 
