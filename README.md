@@ -45,14 +45,14 @@ Attention to detail - Whilst working as an artist for Siege Studios I completed 
 
 ## Education
 
-#### Makers Academy (24/01/22 to end_date)
+#### Makers Academy (24/01/22 to 14/04/2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object Oriented Programming, Test Driven Development, MVC
+- Agile
+- Ruby, JavaScript, Express
+- RSpec, Jest, Capybara
 
 #### University of Portsmouth (Sept 2008 - June 2011)
 
@@ -62,10 +62,11 @@ Attention to detail - Whilst working as an artist for Siege Studios I completed 
 
 #### A Levels
 
+Photography
 Business Studies
 English Literature
 Philosophy & Ethics
 
 ## Hobbies
 
-I paint and play wargames with miniatures, and I play the guitar!
+I paint sci-fi miniatures and I play the guitar!
