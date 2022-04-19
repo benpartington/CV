@@ -46,19 +46,22 @@ Attention to detail - Whilst working as an artist for Siege Studios I completed 
 ## Education
 
 #### Makers Academy (24/01/22 to 14/04/2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- Pair programming every day, which developed my interpersonal and problem solving skills
+- Weekend challenges to develop my solo coding skills
+- Team projects encouraged creative ideation, teamwork and presentation skills
+
+Languages, Frameworks, other:
+- Ruby, JavaScript, React
+- RSpec, Jest
 - Object Oriented Programming, Test Driven Development, MVC
-- Agile
-- Ruby, JavaScript, Express
-- RSpec, Jest, Capybara
+- Agile (standups, retros, code reviews)
+
 
 #### University of Portsmouth (Sept 2008 - June 2011)
 
 - BA Photography
 - 1st Class Honours
-- Worked part time as a Wedding and Fashion Photography
+- Worked part time as a wedding and fashion photographer
 
 #### A Levels
 
