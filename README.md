@@ -7,7 +7,8 @@ I am an aspiring Junior Developer and a recent Makers Academy graduate. I have a
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ----------------------------------    | ----------------- |
 | **Final project**            | An escape room puzzle game played in the browser    | React, Javascript |
-| **Bank Tech Test**           | An application to allow for deposits, withdrawals and statement printing    | Ruby              |
+| **Bank Tech Test**           | An application to allow for deposits, withdrawals and statement printing    | Ruby, RSpec         |
+| **Acebook**                  | A Facebook clone, group project       | JavaScript, Handlebars, MongoDB, Express, Node |
 
 ## Work Experience
 
