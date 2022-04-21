@@ -43,9 +43,10 @@ Soft Skills:
 Agile working - 
 - In each of our team projects at Makers Academy we implemented standups, check-ins, code-reviews, sprints and retros to ensure our group stayed motivated and on-track to success. I learned a lot about the importance of EQ during these projects, and how this can be just as powerful a tool as technical ability.  
  
-Pair programming
-- During my time at Makers Academy I spent most afternoons pair programming, learning how to code, debug, problem solve and communicate effectively with another dev.
-Leadership and teamwork
+Pair programming -
+- During my time at Makers Academy I spent most afternoons pair programming, learning how to code, debug, problem solve and communicate effectively with another dev.  
+
+Leadership and teamwork -
 - In our final project at Makers Academy I took a leading role and made sure all tasks that arose from team discussions were captured as tickets, and helped to delegate and assign work amongst the group. This kept us from missing any tasks and ensured we completed work in a timely manner with a fair distribution of work.
 
 
