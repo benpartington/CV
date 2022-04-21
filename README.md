@@ -50,6 +50,7 @@ Pair programming -
 Leadership and teamwork -
 - In our final project at Makers Academy I took a leading role and made sure all tasks that arose from team discussions were captured as tickets, and helped to delegate and assign work amongst the group. This kept us from missing any tasks and ensured we completed work in a timely manner with a fair distribution of work.
 
+Workplace Examples:
 
 Teamwork Skills - At Culture Trip I worked as part of the visual media team to produce several editions of the Culture Trip magazine. My contribution involved contacting featured businesses to secure press images, curating those images and making sure my work was in line with the strict team deadlines. I worked with my team in meetings and 1-2-1 to ensure we were all working towards a common goal and on schedule. As a result, we delivered the magazine on time and created a high quality piece of work we were all very proud of.
 
