@@ -39,7 +39,8 @@ _Training and Technical Sales Coordinator_
 
 Hard Skills: Ruby, Javascript, TDD   
 
-Soft Skills: 
+Soft Skills:  
+
 Agile working - 
 - In each of our team projects at Makers Academy we implemented standups, check-ins, code-reviews, sprints and retros to ensure our group stayed motivated and on-track to success. I learned a lot about the importance of EQ during these projects, and how this can be just as powerful a tool as technical ability.  
  
