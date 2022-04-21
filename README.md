@@ -1,6 +1,6 @@
 ## Ben Partington
 
-I am an aspiring Junior Developer, a recent Makers Academy graduate with a keen interest in design. I have a background in art, design and photography. I've worked tirelessly to learn how to code over the past 6 months and graduated from Makers Academy, a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create, to use my creativity and ingenuity to bring a fresh approach to problem solving and to work in an industry that constantly evolves and innovates.
+I am an aspiring Junior Developer and a recent Makers Academy graduate. I have a background in art, design and photography. I've worked tirelessly to learn how to code over the past 6 months and graduated from Makers Academy, a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create, to use my creativity and ingenuity to bring a fresh approach to problem solving and to work in an industry that constantly evolves and innovates.
 
 ## Projects
 
@@ -37,6 +37,18 @@ _Training and Technical Sales Coordinator_
 
 ## Skills
 
+Hard Skills: Ruby, Javascript, TDD   
+
+Soft Skills: 
+Agile working - 
+- In each of our team projects at Makers Academy we implemented standups, check-ins, code-reviews, sprints and retros to ensure our group stayed motivated and on-track to success. I learned a lot about the importance of EQ during these projects, and how this can be just as powerful a tool as technical ability.  
+ 
+Pair programming
+- During my time at Makers Academy I spent most afternoons pair programming, learning how to code, debug, problem solve and communicate effectively with another dev.
+Leadership and teamwork
+- In our final project at Makers Academy I took a leading role and made sure all tasks that arose from team discussions were captured as tickets, and helped to delegate and assign work amongst the group. This kept us from missing any tasks and ensured we completed work in a timely manner with a fair distribution of work.
+
+
 Teamwork Skills - At Culture Trip I worked as part of the visual media team to produce several editions of the Culture Trip magazine. My contribution involved contacting featured businesses to secure press images, curating those images and making sure my work was in line with the strict team deadlines. I worked with my team in meetings and 1-2-1 to ensure we were all working towards a common goal and on schedule. As a result, we delivered the magazine on time and created a high quality piece of work we were all very proud of.
 
 Organisational Skills - At Ikon Science I successfully helped to organise software training courses for 2 years. My contributions involved scheduling, organising catering and attendee feedback, as well as organising training materials for in-house and remote courses. I made sure that all attendees received the necessary information and materials before, during and after the course. As a result, in addition to receiving excellent feedback from my line manager, the training area of the business continued to be highly successful and ran hundreds of fully booked courses throughout my time at the company.
@@ -48,9 +60,9 @@ Attention to detail - Whilst working as an artist for Siege Studios I completed 
 #### Makers Academy (24/01/22 to 14/04/2022)
 - Pair programming every day, which developed my interpersonal and problem solving skills
 - Weekend challenges to develop my solo coding skills
-- Team projects encouraged creative ideation, teamwork and presentation skills
+- Team projects encouraged creative ideation, agile working, teamwork and presentation skills
 
-Languages, Frameworks, other:
+Languages, Frameworks, practices:
 - Ruby, JavaScript, React
 - RSpec, Jest
 - Object Oriented Programming, Test Driven Development, MVC
