@@ -81,11 +81,11 @@ Languages, Frameworks, practices:
 
 #### A Levels
 
-Photography
-Business Studies
-English Literature
-Philosophy & Ethics
+- Photography
+- Business Studies
+- English Literature
+- Philosophy & Ethics
 
 ## Hobbies
 
-I paint sci-fi miniatures and I play the guitar!
+I paint sci-fi miniatures and I play the guitar! Recently trying out indoor rock-climbing. The last book I read was The Power of Now by Eckhart Tolle.
