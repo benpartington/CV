@@ -1,6 +1,6 @@
 ## Ben Partington
 
-I am an aspiring Junior Developer, with a keen interest in design. I have a background in art, design and photography. I've worked tirelessly to learn how to code within the past 6 months and gain a place on a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create new worlds, to use my creativity and ingenuity to bring a fresh approach to problem solving and work in an industry that constantly evolves and innovates.
+I am an aspiring Junior Developer, a recent Makers Academy graduate with a keen interest in design. I have a background in art, design and photography. I've worked tirelessly to learn how to code over the past 6 months and graduated from Makers Academy, a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create, to use my creativity and ingenuity to bring a fresh approach to problem solving and to work in an industry that constantly evolves and innovates.
 
 ## Projects
 
