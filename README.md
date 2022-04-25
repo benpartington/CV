@@ -6,9 +6,9 @@ I am an aspiring Junior Developer and a recent Makers Academy graduate. I have a
 
 | Name                         | Description                           | Tech/tools        | Notes
 | ---------------------------- | ----------------------------------    | ----------------- | -----
-| **[Get Me Out of Here!](https://github.com/benpartington/Get_Me_Out_of_Here)**      | An escape room puzzle game played in the browser    | React, Javascript |
-| **[Bank Tech Test](https://github.com/benpartington/Bank_Tech_Test)**           | An application to allow for deposits, withdrawals and statement printing    | Ruby, RSpec         |
-| **[Acebook](https://github.com/benpartington/Acebook)**                  | A Facebook clone, group project       | JavaScript, Handlebars, MongoDB, Express, Node | I put particular work into the profile page, creating dynamic fields to update a user’s personal info and display to the page.
+| **[Get Me Out of Here!](https://github.com/benpartington/Get_Me_Out_of_Here)**      | An escape room puzzle game played in the browser    | React, Javascript | I took a leading role in the ideation of the game theme and mechanics, as well as leading the presentation walkthroughs on Demo Day. I was instrumental in the implementation of the timer function of the game as well.
+| **[Bank Tech Test](https://github.com/benpartington/Bank_Tech_Test)**           | An application to allow for deposits, withdrawals and statement printing    | Ruby, RSpec         | I gained from this project a further appreciation of creating clean, well tested code that functions simply but effectively
+| **[Acebook](https://github.com/benpartington/Acebook)**                  | A Facebook clone, group project       | JavaScript, Handlebars, MongoDB, Express, Node | I put particular work into the profile page, creating dynamic fields to update a user’s personal info and display to the page
 
 
 ## Work Experience
