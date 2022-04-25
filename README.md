@@ -1,14 +1,14 @@
 ## Ben Partington
 
-I am an aspiring Junior Developer and a recent Makers Academy graduate. I have a background in art, design and photography. I've worked tirelessly to learn how to code over the past 6 months and graduated from Makers Academy, a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create, to use my creativity and ingenuity to bring a fresh approach to problem solving and to work in an industry that constantly evolves and innovates.
+I am an aspiring Junior Developer and a recent Makers Academy graduate. I have a background in art, design and photography. Over the past 6 months I have been dedicated to learning how to code and have graduated from Makers Academy, a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create, to use my creativity and ingenuity to bring a fresh approach to problem solving and to work in an industry that constantly evolves and innovates.
 
 ## Projects
 
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ----------------------------------    | ----------------- |
-| **Final project**            | An escape room puzzle game played in the browser    | React, Javascript |
-| **Bank Tech Test**           | An application to allow for deposits, withdrawals and statement printing    | Ruby, RSpec         |
-| **Acebook**                  | A Facebook clone, group project       | JavaScript, Handlebars, MongoDB, Express, Node |
+| **[Get Me Out of Here!](https://github.com/benpartington/Get_Me_Out_of_Here)**      | An escape room puzzle game played in the browser    | React, Javascript |
+| **[Bank Tech Test](https://github.com/benpartington/Bank_Tech_Test)**           | An application to allow for deposits, withdrawals and statement printing    | Ruby, RSpec         |
+| **[Acebook](https://github.com/benpartington/Acebook)**                  | A Facebook clone, group project       | JavaScript, Handlebars, MongoDB, Express, Node |
 
 ## Work Experience
 
