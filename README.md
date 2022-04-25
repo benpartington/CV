@@ -30,16 +30,25 @@ _Junior Picture Researcher_
 - Through creativity and initative, researching unique photo-stories from around the world and negotiating the liscening of these
 - Working to very strict deadlines and changing circumstances to contribute to a print magazine
 
-_Junior Programme Manager_
+_Junior Programme Manager_ (April 2018 - October 2018)
 
 - Demonstrated strong organisational skills by mapping the processes of the visual teams
 - Used communication skills to liaise between Product team and Visual teams
 - Both of these contributed to increased productivity and output of visual content
 
+**Gap Year: Australia** (February 2017 - February 2018)
+- I always had a dream to work and travel abroad and visit Australia, so I combined these two for the year of 2017!
+- During this time I worked for a few months as a tour guide in the Botanic Gardens in Sydney
+- I used my strong communication skills to deliver fun and informative tours in this role and received positive feedback from customers and management
+
 **Jinn App** (February 2016 - February 2017)
 _Data Administrator_
 
 - A strong work ethic and keen eye for detail helped me to complete a range of data entry duties in this role, resulting in the effective functioning of this grocery delivery app
+
+**World Travel** (November 2015 - February 2016)
+- I took this time to focus on my passion for photography and travel
+- I travelled alone for several months in Southeast Asia and learnt a lot about confidence and communication during this time
 
 **Ikon Science** (August 2013 – November 2015)  
 _Training and Technical Sales Coordinator_
