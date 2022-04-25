@@ -16,11 +16,10 @@ I am an aspiring Junior Developer and a recent Makers Academy graduate. I have a
 **Siege Studios** (August 2020 - October 2021)  
 _Freelance Artist_
 
-- Completing miniature model painting commissions for Siege Studios’ clients. 
-- Time management and organisational skills were paramount in this role, as well as a passion for perfection!
-- Results achieved: 
-- A portfolio of outstanding work
-- 100% satisfaction upon review!
+- Used attention to detail to complete besoke miniature model painting commissions for Siege Studios’ clients  
+- Implemented strong time management skills to complete commissions to strict deadlines, whilst maintaining extremely high levels of quality, ensuring repeat business
+- Through dedication and determination I taught myself the skills required to paint to a professional level and create a portfolio of consistently outstanding work 
+- Used initiative to interpret client briefs and received 100% satisfaction upon review
 
 
 **Culture Trip** (Oct 2018 - June 2020)  
