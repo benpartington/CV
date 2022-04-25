@@ -25,10 +25,10 @@ _Freelance Artist_
 **Culture Trip** (Oct 2018 - June 2020)  
 _Junior Picture Researcher_
 
-- Researching and curating imagery within articles 
-- Working with sales and marketing teams to produce weekly external newsletters
-- Researching and licensing of photo-stories 
-- Working across teams to produce editorial content in both print and digital
+- Building and developing adept research skills to curate imagery within articles 
+- Using my strong communication skills to liaise with sales & marketing teams to produce weekly external newsletters
+- Through creativity and initative, researching unique photo-stories from around the world and negotiating the liscening of these
+- Working to very strict deadlines and changing circumstances to contribute to a print magazine
 
 **Ikon Science** (August 2013 – November 2015)  
 _Training and Technical Sales Coordinator_
