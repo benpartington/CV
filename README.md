@@ -61,15 +61,15 @@ _Training and Technical Sales Coordinator_
 
 ## Skills
 
-**Excellent communicator**  
+**Communication**  
 
 During my time at Makers Academy I spent most afternoons pair programming, learning how to problem solve and communicate effectively with other devs. My strong communication skills enabled me to synergise with others in team projects as well, and produce better code, more efficiently. These skills also served me well at Culture Trip, where I worked alongside my team to produce several editions of the CT magazine. Through daily standups and regular check-ins we were able to complete our work to strict print deadlines and produce a beautiful end product.
 
-**Strong organisational skills**  
+**Organisational skills**  
 
 At Ikon Science I successfully helped to organise software training courses for 2 years. My contributions involved scheduling, organising catering and attendee feedback. I made sure that all attendees received the necessary information and materials for the course. As a result the training area of the business continued to be highly successful. In our final project at Makers Academy I took a leading role and made sure all tasks that arose from team discussions were captured as tickets, and helped to delegate and assign work amongst the group. This kept us from missing any tasks and ensured we completed work in a timely manner with a fair distribution of work.
 
-**Excellent attention to detail**  
+**Attention to detail**  
   
 Whilst working as an artist for Siege Studios I completed mutiple commissions to an extremely high standard, and always went above and beyond to put extra effort and detail into my painting commissions. In this role I exhibited an incredible attention to detail and the ability to follow a client specification closely, whilst also being able to improvise, creatively interpret and expand on the instruction therein. The result of my hard work and attention to detail was the continued rapid expansion and success of the business, as well as receiving excellent feedback on all my projects. 
 
@@ -79,6 +79,7 @@ Whilst working as an artist for Siege Studios I completed mutiple commissions to
 - Pair programming every day, which developed my interpersonal and problem solving skills
 - Weekend challenges to develop my solo coding skills
 - Team projects encouraged creative ideation, agile working, teamwork and presentation skills
+- EQ training; empathy, feedbakc, teamwork
 
 Languages, Frameworks, practices:
 - Ruby, JavaScript, React
@@ -95,4 +96,6 @@ Languages, Frameworks, practices:
 
 ## Hobbies
 
-I paint sci-fi miniatures and I play the guitar! Recently trying out indoor rock-climbing. The last book I read was The Power of Now by Eckhart Tolle.
+I paint [sci-fi miniatures](https://www.instagram.com/benpartingtonpainting/?hl=en) and I play the guitar!  
+Recently trying out indoor rock-climbing.  
+The last book I read was The Power of Now by Eckhart Tolle.
