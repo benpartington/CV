@@ -4,11 +4,12 @@ I am an aspiring Junior Developer and a recent Makers Academy graduate. I have a
 
 ## Projects
 
-| Name                         | Description                           | Tech/tools        |
-| ---------------------------- | ----------------------------------    | ----------------- |
+| Name                         | Description                           | Tech/tools        | Notes
+| ---------------------------- | ----------------------------------    | ----------------- | -----
 | **[Get Me Out of Here!](https://github.com/benpartington/Get_Me_Out_of_Here)**      | An escape room puzzle game played in the browser    | React, Javascript |
 | **[Bank Tech Test](https://github.com/benpartington/Bank_Tech_Test)**           | An application to allow for deposits, withdrawals and statement printing    | Ruby, RSpec         |
-| **[Acebook](https://github.com/benpartington/Acebook)**                  | A Facebook clone, group project       | JavaScript, Handlebars, MongoDB, Express, Node |
+| **[Acebook](https://github.com/benpartington/Acebook)**                  | A Facebook clone, group project       | JavaScript, Handlebars, MongoDB, Express, Node | I put particular work into the profile page, creating dynamic fields to update a user’s personal info and display to the page.
+
 
 ## Work Experience
 
