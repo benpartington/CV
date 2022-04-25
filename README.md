@@ -1,6 +1,6 @@
 ## Ben Partington
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/ben-partington/)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/ben-partington/)
 
 I am an aspiring Junior Developer and a recent Makers Academy graduate. I have a background in art, design and photography. Over the past 6 months I have been dedicated to learning how to code and have graduated from Makers Academy, a highly selective coding bootcamp. I've always loved creating things, so what really excites me about tech is the ability to create, to use my creativity and ingenuity to bring a fresh approach to problem solving and to work in an industry that constantly evolves and innovates.
 
