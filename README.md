@@ -30,10 +30,22 @@ _Junior Picture Researcher_
 - Through creativity and initative, researching unique photo-stories from around the world and negotiating the liscening of these
 - Working to very strict deadlines and changing circumstances to contribute to a print magazine
 
+_Junior Programme Manager_
+
+- Demonstrated strong organisational skills by mapping the processes of the visual teams
+- Used communication skills to liaise between Product team and Visual teams
+- Both of these contributed to increased productivity and output of visual content
+
+**Jinn App** (February 2016 - February 2017)
+_Data Administrator_
+
+- A strong work ethic and keen eye for detail helped me to complete a range of data entry duties in this role, resulting in the effective functioning of this grocery delivery app
+
 **Ikon Science** (August 2013 – November 2015)  
 _Training and Technical Sales Coordinator_
 
-- Organisation of training courses, calendar management and logistics
+- Building strong relationships with clients and local businesses by implementing my excellent communication and interpersonal skills
+- Organisation of training courses, calendar management and logistics, further demonstrating my ability to plan, adapt and handle a fast paced role, which resulted in the continued success of the training area of the business.
 
 
 ## Skills
