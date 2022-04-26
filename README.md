@@ -79,7 +79,7 @@ Whilst working as an artist for Siege Studios I completed mutiple commissions to
 - Pair programming every day, which developed my interpersonal and problem solving skills
 - Weekend challenges to develop my solo coding skills
 - Team projects encouraged creative ideation, agile working, teamwork and presentation skills
-- EQ training; empathy, feedbakc, teamwork
+- EQ training; empathy, feedback, teamwork
 
 Languages, Frameworks, practices:
 - Ruby, JavaScript, React
