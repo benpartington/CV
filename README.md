@@ -29,7 +29,7 @@ _Junior Picture Researcher_
 
 - Building and developing adept research skills to curate imagery within articles 
 - Using my strong communication skills to liaise with sales & marketing teams to produce weekly external newsletters
-- Through creativity and initative, researching unique photo-stories from around the world and negotiating the liscening of these
+- Through creativity and initiative, researching unique photo-stories from around the world and negotiating the licensing of these
 - Working to very strict deadlines and changing circumstances to contribute to a print magazine
 
 _Junior Programme Manager_ (April 2018 - October 2018)
