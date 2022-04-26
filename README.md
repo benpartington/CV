@@ -75,7 +75,7 @@ Whilst working as an artist for Siege Studios I completed mutiple commissions to
 
 ## Education
 
-#### Makers Academy - Software Development Bootcamp (24/01/22 to 14/04/2022)
+#### Makers Academy - Software Development Bootcamp (January 2022 - April 2022)
 - Pair programming every day, which developed my interpersonal and problem solving skills
 - Weekend challenges to develop my solo coding skills
 - Team projects encouraged creative ideation, agile working, teamwork and presentation skills
